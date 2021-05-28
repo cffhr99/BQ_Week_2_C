@@ -154,7 +154,7 @@ width:90%;
     height:300px;
     border: solid #0ABAB5 6px;
     filter: alpha(Opacity=50);
-    -moz-opacity=0.5;
+    -moz-opacity:0.5;
     opacity: 0.5;
     display: flex;
 }
@@ -184,7 +184,7 @@ width:90%;
     border: solid #0ABAB5 6px;
     display: flex;
     filter: alpha(Opacity=50);
-    -moz-opacity=0.5;
+    -moz-opacity:0.5;
     opacity: 0.5;
 }
 
@@ -208,7 +208,7 @@ width:90%;
     border: solid #0ABAB5 6px;
     display: flex;
     filter: alpha(Opacity=50);
-    -moz-opacity=0.5;
+    -moz-opacity:0.5;
     opacity: 0.5;
 }
 
@@ -231,7 +231,7 @@ width:90%;
     border: solid #0ABAB5 6px;
     display: flex;
     filter: alpha(Opacity=50);
-    -moz-opacity=0.5;
+    -moz-opacity:0.5;
     opacity: 0.5;
 }
 
@@ -254,7 +254,7 @@ width:90%;
     border: solid #0ABAB5 6px;
     display: flex;
     filter: alpha(Opacity=50);
-    -moz-opacity=0.5;
+    -moz-opacity:0.5;
     opacity: 0.5;
 }
 
