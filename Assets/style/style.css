@@ -324,3 +324,15 @@ width:90%;
     display: flex;
     justify-content: space-evenly;
 }
+
+@media screen and (max-width: 1024px) {
+    body {
+      background-color: #C3E0E5;
+    }
+    .title1 {
+        width: 100px;
+        text-align: right;
+        font-size: 30pt;
+        color:#274472 ;
+    }
+}
